@@ -22,4 +22,4 @@ Sterowanie strzałki góra i dół.
 !!!!`
 cfbd
 
-Long Live the Pong
+Long Live the Pong!
