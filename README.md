@@ -1,8 +1,7 @@
 # pong.js
-Stary dobry pong w moim wydaniu.
+Stary dobry pong w moim wydaniu.Moja pierwsza próba stworzenia gry.
 
-Moja pierwsza próba stworzenia gry.
-
+# Zagraj na kleczewsky.com/pong.html
 Sterowanie strzałki góra i dół.
 
           ,;;;!!!!!;;.
