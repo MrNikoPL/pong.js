@@ -17,6 +17,6 @@ Sterowanie strzałki góra i dół.
       !!!'''
      !!!!
     !!!!                         
-cfbd
+
 
 Long Live the Pong!
