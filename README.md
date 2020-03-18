@@ -6,8 +6,7 @@ Moja pierwsza próba stworzenia gry.
 Sterowanie strzałki góra i dół.
 
 
-
-
+`
           ,;;;!!!!!;;.
         :!!!!!!!!!!!!!!;
       :!!!!!!!!!!!!!!!!!;
@@ -19,7 +18,7 @@ Sterowanie strzałki góra i dół.
       ,!!!!!!!!!!!!!''
    ,;!!!''''''''''
  .!!!!'
-!!!!`
-cfbd
+!!!!                          `
+cfbd"
 
 Long Live the Pong!
